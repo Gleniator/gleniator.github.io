@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi Hannah, I'm on the internet now :O
 
 You can use the [editor on GitHub](https://github.com/Gleniator/gleniator.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
